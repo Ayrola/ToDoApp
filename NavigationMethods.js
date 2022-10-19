@@ -1,3 +1,3 @@
 function NavigateToToDoApp(){
-  window.location.href = "/ToDoApp.html";
+  window.location.replace("ToDoApp.html");
 }
